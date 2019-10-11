@@ -9,7 +9,7 @@ Mocking modules
 
 Testing with Ids
 
-Events Testing library fireCatch
+Events Testing library fireEvent
 
 Cleanup
 
